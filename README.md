@@ -1,4 +1,4 @@
-<h3 align="center">Student at UTTT, 🐦.</h3>
+<h3 align="center">Student at University.</h3>
 
 <br>
 
